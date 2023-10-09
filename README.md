@@ -1,79 +1,31 @@
-# Micro GitHub Page Template
+# Quantitative thoughts and observations
 
-## Features
+## Winning with Quantitative Trading
 
-0. No JavaScript.
-1. Minimalistic 404 page.
-2. Clean urls (`/page/` instead of `/page.html`).
-3. SEO sitemap.
-4. Use `/commits/master.atom` of source repository for RSS.
-5. `application/git+http` rel tag.
-6. Use [Primer] Jekyll theme, which is the default theme for GitHub Pages
+Quantitative Algorithmic trading is the computerised execution of the financial instruments following the trading strategies that are developed using advanced mathematical models. Quantitative methods are used for carrying out the research, analysing the historical data and using the complex mathematical and statistical models to find the trading opportunities
 
 [Primer]: https://github.com/pages-themes/primer
 
-## Use
+## Polarized Fractal Efficiency
 
-1. Create a new repository at GitHub based on template [weakish/micro-gh-page].
-
-2. Edit `_config.yml`, for example:
-
-    ```
-    url: your-username.github.io
-    title: your-site-title
-    ```
-
-3. (optional) Add a `favicon.ico` file.
-
-4. (optional) Add a `CNAME` file to use your own domain.
-
-5. (optional) Add `repo: USERNAME/REPO_NAME` in `_config.yml`.
-
-6. Commit changes and push.
+In finance, the Polarised Fractal Efficiency (PFE) indicator was developed by Hans Hannula. This measure is becoming increasingly popular and is being adopted in many financial models. I often use it for stock price predictions in my models along with other indicators.
 
 [weakish/micro-gh-page]: https://github.com/weakish/micro-gh-page
 
-## Preview
+## Quantum Supremacy
 
-Install the requirements:
+The use of of scalable machine learning and analytics systems across the most critical government as well as commercial institutions in the world to solve some of the hardest (or not, depending on how you see it) analytical problems of our times can be more easily seen now a days.
 
-```sh
-bundle install
-```
+## Key points on Machine Learning
 
-Preview locally:
-
-```sh
-bundle exec jekyll serve
-```
-
-## ZeroNet
-
-To deploy to [ZeroNet], just add a new config file, e.g. `_zeronet.yml`, to override the `site.url` variable:
-
-```yaml
-url: /YOUR_ZERONET_SITE_ADDRESS
-```
-
-Then build the site with:
-
-```sh
-bundle exec jekyll build --config _config.yml,_zeronet.yml -d PATH_TO_ZERONET/data/YOUR_ZERONET_SITE_ADDRESS
-```
-
-Afterwards you can sign and publish your zeronet site:
-
-```sh
-zeronet.py siteSign YOUR_ZERONET_SITE_ADDRESS
-zeronet.py sitePublish YOUR_ZERONET_SITE_ADDRESS
-```
-
-You can also sign and publish your site via the zero panel in the browser.
+Machine learning is an important topic in research and industry, with new methodologies developed all the time. But, despite the millions of dollars invested in analytics technologies, the majority of companies still struggle to establish an efficient and programmatic way to do analytics at scale. 
 
 [ZeroNet]: https://zeronet.io/
 
-## Examples
+## Backtesting Bias
 
-- [this site itself](https://mmap.page/micro-gh-page/)
-- [mmap.page](https://mmap.page)
-- [add your site](https://github.com/weakish/micro-gh-page/pulls)
+In an ideal trading universe (free from backtesting bias), we’d all have a big golden “crystal ball”. Through this crystal ball, you’d zoom in and understand the fleeting, enigmatic nature of the financial markets, stripping bare all its causes and effects. 
+
+## Robo Advisors – Rise or Demise?
+
+Wealth management has typically only been for those with higher-than-average income, with fees for these services being prohibitive for the general population. However, wealth management is becoming increasingly accessible – companies using robo-advisers now provide similar services for a fee of less than 1% of the money being managed.
