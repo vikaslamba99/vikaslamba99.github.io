@@ -1,16 +1,16 @@
-# Quantitative thoughts and observations
+# Quant Finance | Data Science | Algorithmic Trading
 
 ## Winning with Quantitative Trading
 
 Quantitative Algorithmic trading is the computerised execution of the financial instruments following the trading strategies that are developed using advanced mathematical models. Quantitative methods are used for carrying out the research, analysing the historical data and using the complex mathematical and statistical models to find the trading opportunities
 
-[Primer]: https://github.com/pages-themes/primer
+[Primer]: https://vikaslamba99.github.io/
 
 ## Polarized Fractal Efficiency
 
 In finance, the Polarised Fractal Efficiency (PFE) indicator was developed by Hans Hannula. This measure is becoming increasingly popular and is being adopted in many financial models. I often use it for stock price predictions in my models along with other indicators.
 
-[weakish/micro-gh-page]: https://github.com/weakish/micro-gh-page
+[weakish/micro-gh-page]: https://vikaslamba99.github.io/
 
 ## Quantum Supremacy
 
@@ -20,7 +20,7 @@ The use of of scalable machine learning and analytics systems across the most cr
 
 Machine learning is an important topic in research and industry, with new methodologies developed all the time. But, despite the millions of dollars invested in analytics technologies, the majority of companies still struggle to establish an efficient and programmatic way to do analytics at scale. 
 
-[ZeroNet]: https://zeronet.io/
+[ZeroNet]: https://vikaslamba99.github.io/
 
 ## Backtesting Bias
 
