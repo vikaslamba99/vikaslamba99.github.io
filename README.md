@@ -1,4 +1,4 @@
-# Quant Finance | Data Science | Algorithmic Trading
+## Quant Finance | Data Science | Algorithmic Trading
 
 ## Winning with Quantitative Trading
 
